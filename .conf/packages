@@ -1,4 +1,1 @@
-x11-base/xorg-server
-x11-base/xorg-drivers
-x11-misc/lightdm
-gui-libs/display-manager-init
+x11-misc/numlockx
